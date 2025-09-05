@@ -26,3 +26,4 @@ ICalcolabile (Interfaccia): Definisce il contratto per il calcolo della media. L
 <br>
 
 ### Screenshot dell'interfaccia finale
+(https://raw.githubusercontent.com/thomas-fragrante/Progetto-Informatica-Estate-2025/main/Screenshots/Screenshot%202025-09-05%20152423.png)
