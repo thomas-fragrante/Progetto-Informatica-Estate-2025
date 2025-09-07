@@ -24,6 +24,3 @@
 *.pidb
 *.pdb
 *.booproj
-
-# Ignore meta files for external packages
-#
