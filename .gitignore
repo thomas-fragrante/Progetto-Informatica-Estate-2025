@@ -1,0 +1,31 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools/
+/Assets/StreamingAssets/
+/Packages/
+/Logs/
+/UserSettings/
+/ExternalPackages/
+
+# Visual Studio files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.booproj
+
+# Unity-generated files
+*.meta
+*.unitypackage
+*.asset
+*.pref
+*.sprite
+*.shader
