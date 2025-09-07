@@ -1,3 +1,6 @@
+# =============== Unity-specific settings =============== #
+
+# Exclude files created by Unity and should not be tracked
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -10,7 +13,7 @@
 /UserSettings/
 /ExternalPackages/
 
-# Visual Studio files
+# Exclude other common files
 .vs/
 *.csproj
 *.unityproj
@@ -22,10 +25,5 @@
 *.pdb
 *.booproj
 
-# Unity-generated files
-*.meta
-*.unitypackage
-*.asset
-*.pref
-*.sprite
-*.shader
+# Ignore meta files for external packages
+#
